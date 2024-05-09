@@ -6,8 +6,8 @@ This example shows how to use Resend with [Python](https://www.python.org).
 
 To get the most out of this guide, you’ll need to:
 
-* [Create an API key](https://resend.com/api-keys)
-* [Verify your domain](https://resend.com/domains)
+- [Create an API key](https://resend.com/api-keys)
+- [Verify your domain](https://resend.com/domains)
 
 ## Installation
 
@@ -23,9 +23,9 @@ pip install resend
 
 2. Execute the following command:
 
-  ```sh
+```sh
 python3 index.py
-  ```
+```
 
 ## License
 
