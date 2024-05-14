@@ -10,5 +10,5 @@ params: resend.Emails.SendParams = {
     "html": "<strong>It works!</strong>"
 }
 
-email = resend.Emails.send(params)
+email: resend.Email = resend.Emails.send(params)
 print(email)
